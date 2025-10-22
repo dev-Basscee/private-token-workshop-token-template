@@ -2,5 +2,5 @@
 *.prover
 *.verifier
 outputs/
-.env
+*.env
 
