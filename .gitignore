@@ -2,5 +2,6 @@
 *.prover
 *.verifier
 outputs/
-*.env
+# # save the file from that commit into your working tree (overwrites local .env if present)
+git show abc1234:.env > .env
 
